@@ -7,3 +7,7 @@ Mayday and Mayhem Teams Daily Log with Tasks and Goals
 3. Research
 
 ## 8/25/25 First Day of Preseason!
+
+## 8/26/25 Sec Day of Preseason!
+
+Aryaa says the tension imbalance in the sides of the drivetrain are NOT an issue and should not be worried about.
