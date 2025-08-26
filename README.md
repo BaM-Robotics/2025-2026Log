@@ -8,8 +8,18 @@ Mayday and Mayhem Teams Daily Log with Tasks and Goals
 
 ## 8/25/25 First Day of Preseason!
 
+- figured out how to turn off flashlight
+
 ## 8/26/25 Sec Day of Preseason!
 
 Aryaa says the tension imbalance in the sides of the drivetrain are NOT an issue and should not be worried about. 
 
 nikka and joshua questioned the use of gears if we have 4 motors and 4 wheels.. aryaa refuses to further elaborate.
+
+- Attached both ends of the drivetrain, discovered above mentioned issue
+- Finished assembly of intake wheels
+- Basic github tutorial
+- Basic metal cutting tutorial
+- Discussed and started attaching intake to drivetrain
+
+Goals for tomorrow are finishing up intake, brainstorming auton strategies, round corners of intake plates.
