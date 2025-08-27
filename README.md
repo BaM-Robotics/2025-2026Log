@@ -26,4 +26,8 @@ Goals for tomorrow are finishing up intake, brainstorming auton strategies, roun
 
 ## 8/27/25 3 Day of Preseason ;-;
 - Attached intake + servos to drivetrain
-- Nikka taught Arushi basic vexcode and programmed a barebones 
+- Nikka taught Arushi basic vexcode and programmed a barebones
+
+Goals for tomorrow are to throw a brain on the drivetrain and finish up the toggle for intake on the controller. 
+
+Nikka wants to use two controllers for the robot at the competition.
