@@ -23,3 +23,7 @@ nikka and joshua questioned the use of gears if we have 4 motors and 4 wheels.. 
 - Discussed and started attaching intake to drivetrain
 
 Goals for tomorrow are finishing up intake, brainstorming auton strategies, round corners of intake plates.
+
+## 8/27/25 3 Day of Preseason ;-;
+- Attached intake + servos to drivetrain
+- Nikka taught Arushi basic vexcode and programmed a barebones 
