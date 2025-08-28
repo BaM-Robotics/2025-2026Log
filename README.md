@@ -31,3 +31,6 @@ Goals for tomorrow are finishing up intake, brainstorming auton strategies, roun
 Goals for tomorrow are to throw a brain on the drivetrain and finish up the toggle for intake on the controller. 
 
 Nikka wants to use two controllers for the robot at the competition.
+
+## 8/28/25 day 4 of preaseason
+- nikka gaveg arushi a intake challenge
