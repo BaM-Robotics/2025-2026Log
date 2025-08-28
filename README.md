@@ -34,3 +34,6 @@ Nikka wants to use two controllers for the robot at the competition.
 
 ## 8/28/25 day 4 of preaseason
 - nikka gaveg arushi a intake challenge
+- finishing intake
+- test drove robot, need to fix drivetrain as it fell apart
+- disaster struck! code got messed up by arushi and nikka fixxed it. HOOORAY!!!!!!!
