@@ -37,3 +37,9 @@ Nikka wants to use two controllers for the robot at the competition.
 - finishing intake
 - test drove robot, need to fix drivetrain as it fell apart
 - disaster struck! code got messed up by arushi. Nikka to the rescue.  nikka fixxed it. HOOORAY!!!!!!!
+
+## 8/29/25 Last day of preseason !!
+- Fixed drivetrain
+- minor tweaks to driver code
+- Arushi added support for secondary controller and moved over tempHUD to it
+- switched around intake method from two rollers to a roller tray
