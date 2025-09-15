@@ -43,3 +43,10 @@ Nikka wants to use two controllers for the robot at the competition.
 - minor tweaks to driver code
 - Arushi added support for secondary controller and moved over tempHUD to it
 - switched around intake method from two rollers to a roller tray
+
+## 9/15/25
+- arushi looked for links for center goals as needed to find out the dimension
+- nikka assembled the game materials
+- joshua and eli worked on adding the extension for the robot
+- other two teams worked on demo robot
+
