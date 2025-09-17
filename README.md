@@ -50,3 +50,11 @@ Nikka wants to use two controllers for the robot at the competition.
 - joshua and eli worked on adding the extension for the robot
 - other two teams worked on demo robot
 
+## 9/17/25
+- aryaa is hr
+- eli sanded 
+- arushi looked at piston pusher ideas for design
+- nikka looked at some vision sensor stuff
+- joshua and eli worked on robots
+- other two teams worked on intake and robot
+
