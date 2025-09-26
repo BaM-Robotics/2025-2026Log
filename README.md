@@ -58,3 +58,10 @@ Nikka wants to use two controllers for the robot at the competition.
 - joshua and eli worked on robots
 - other two teams worked on intake and robot
 
+## 9/26/25
+- both teams worked on theirf respective robots
+- henry found a video he wanted
+- charlie arushi and andres atempted different ways to fixed the robot
+- eli workedon the arm
+- joshua did spinning work and unjamming the robot
+
