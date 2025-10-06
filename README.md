@@ -65,3 +65,13 @@ Nikka wants to use two controllers for the robot at the competition.
 - eli workedon the arm
 - joshua did spinning work and unjamming the robot
 
+## 10/3/25
+- andres started to cut metal
+- arushi taught andres github
+- arushi and charlie did sketches
+
+## 10/6/25
+- arushi worked on the journal and charlie finished his onshape
+- andres finished cutting metal
+- other team work on thier  robot
+
