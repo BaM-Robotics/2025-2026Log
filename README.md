@@ -74,4 +74,8 @@ Nikka wants to use two controllers for the robot at the competition.
 - arushi worked on the journal and charlie finished his onshape
 - andres finished cutting metal
 - other team work on thier  robot
-
+## 10/10/25
+- Andreas made an amazing box that was the best part of the entire week (also cut metal)
+- Arushi found the one piece we've been looking for for more than a month
+- Charlie, I dont have a name, and i dont know worked on the robot trying to fix it
+- Nikka eli and arya and joshua worked on block depositi and helicopter helicopter.
