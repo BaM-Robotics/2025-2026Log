@@ -79,3 +79,12 @@ Nikka wants to use two controllers for the robot at the competition.
 - Arushi found the one piece we've been looking for for more than a month
 - Charlie, I dont have a name, and i dont know worked on the robot trying to fix it
 - Nikka eli and arya and joshua worked on block depositi and helicopter helicopter.
+## /10/25
+-Contemplated 67
+-Charlie worked on drive train 
+-Andreas and Henry worked on 'spinny thing with ton of gears'
+-Arushi uplifted team spirits and fixed rubber thing
+-Jomarseph was instrumental in the construction process quote by jomarseph "if the air is poisonous I wouldn't breath"
+-Eli and nikka had emotional issues becuase of forced seperation
+-Joseph helped a ton
+-Arya separated eli and nikka 
